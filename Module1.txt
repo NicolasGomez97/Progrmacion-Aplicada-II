@@ -1,0 +1,29 @@
+﻿Module Module1
+
+    Sub Main()
+        Dim vec() As Integer = {12, 2, 5, 27, 2, 45}
+        Dim k, posicion As Integer
+        Console.WriteLine("Vector sin ordenar")
+        For Each k In vec
+            Console.WriteLine(k)
+        Next
+        'Array.Sort(vec)
+        'Console.WriteLine()
+        'Console.WriteLine("Vector ordenado de menor a mayor")
+        'For Each k In vec
+        '    Console.WriteLine(k)
+        'Next
+        'Array.Reverse(vec)
+        'Console.WriteLine()
+        'Console.WriteLine("Vector ordenado de mayor a menor")
+        'For Each k In vec
+        '    Console.WriteLine(k)
+        'Next
+        posicion = Array.IndexOf(vec, 2, 0)
+        Console.WriteLine()
+        Console.WriteLine("Posicion del valor 2")
+        Console.WriteLine("Posicion: " & posicion)
+        Console.ReadLine()
+    End Sub
+
+End Module

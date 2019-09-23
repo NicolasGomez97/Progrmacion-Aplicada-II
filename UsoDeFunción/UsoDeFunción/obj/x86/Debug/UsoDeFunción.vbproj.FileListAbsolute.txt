@@ -1,0 +1,11 @@
+C:\Users\Nicol\AppData\Local\Temporary Projects\UsoDeFunción\bin\Debug\UsoDeFunción.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\UsoDeFunción\bin\Debug\UsoDeFunción.pdb
+C:\Users\Nicol\AppData\Local\Temporary Projects\UsoDeFunción\bin\Debug\UsoDeFunción.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\UsoDeFunción\obj\x86\Debug\UsoDeFunción.Resources.resources
+C:\Users\Nicol\AppData\Local\Temporary Projects\UsoDeFunción\obj\x86\Debug\UsoDeFunción.vbproj.GenerateResource.Cache
+C:\Users\Nicol\AppData\Local\Temporary Projects\UsoDeFunción\obj\x86\Debug\UsoDeFunción.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\UsoDeFunción\obj\x86\Debug\UsoDeFunción.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\UsoDeFunción\obj\x86\Debug\UsoDeFunción.pdb
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\UsoDeFunción\UsoDeFunción\obj\x86\Debug\UsoDeFunción.exe
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\UsoDeFunción\UsoDeFunción\obj\x86\Debug\UsoDeFunción.xml
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\UsoDeFunción\UsoDeFunción\obj\x86\Debug\UsoDeFunción.pdb

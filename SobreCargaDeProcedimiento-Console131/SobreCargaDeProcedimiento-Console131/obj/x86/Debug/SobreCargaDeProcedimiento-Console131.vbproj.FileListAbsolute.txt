@@ -1,0 +1,8 @@
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\SobreCargaDeProcedimiento-Console131\SobreCargaDeProcedimiento-Console131\bin\Debug\SobreCargaDeProcedimiento-Console131.exe
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\SobreCargaDeProcedimiento-Console131\SobreCargaDeProcedimiento-Console131\bin\Debug\SobreCargaDeProcedimiento-Console131.pdb
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\SobreCargaDeProcedimiento-Console131\SobreCargaDeProcedimiento-Console131\bin\Debug\SobreCargaDeProcedimiento-Console131.xml
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\SobreCargaDeProcedimiento-Console131\SobreCargaDeProcedimiento-Console131\obj\x86\Debug\SobreCargaDeProcedimiento.Resources.resources
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\SobreCargaDeProcedimiento-Console131\SobreCargaDeProcedimiento-Console131\obj\x86\Debug\SobreCargaDeProcedimiento-Console131.vbproj.GenerateResource.Cache
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\SobreCargaDeProcedimiento-Console131\SobreCargaDeProcedimiento-Console131\obj\x86\Debug\SobreCargaDeProcedimiento-Console131.exe
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\SobreCargaDeProcedimiento-Console131\SobreCargaDeProcedimiento-Console131\obj\x86\Debug\SobreCargaDeProcedimiento-Console131.xml
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\SobreCargaDeProcedimiento-Console131\SobreCargaDeProcedimiento-Console131\obj\x86\Debug\SobreCargaDeProcedimiento-Console131.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nicol\AppData\Local\Temporary Projects\Try-Console393\bin\Debug\Try-Console393.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\Try-Console393\bin\Debug\Try-Console393.pdb
+C:\Users\Nicol\AppData\Local\Temporary Projects\Try-Console393\bin\Debug\Try-Console393.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\Try-Console393\obj\x86\Debug\Try_Console393.Resources.resources
+C:\Users\Nicol\AppData\Local\Temporary Projects\Try-Console393\obj\x86\Debug\Try-Console393.vbproj.GenerateResource.Cache
+C:\Users\Nicol\AppData\Local\Temporary Projects\Try-Console393\obj\x86\Debug\Try-Console393.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\Try-Console393\obj\x86\Debug\Try-Console393.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\Try-Console393\obj\x86\Debug\Try-Console393.pdb
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\Try-Console393\Try-Console393\obj\x86\Debug\Try-Console393.exe
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\Try-Console393\Try-Console393\obj\x86\Debug\Try-Console393.xml
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\Try-Console393\Try-Console393\obj\x86\Debug\Try-Console393.pdb

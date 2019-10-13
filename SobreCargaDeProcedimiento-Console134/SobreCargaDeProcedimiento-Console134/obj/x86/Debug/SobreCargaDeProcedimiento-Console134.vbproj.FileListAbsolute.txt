@@ -1,0 +1,8 @@
+C:\Users\Nicol\AppData\Local\Temporary Projects\SobreCargaDeProcedimiento-Console134\bin\Debug\SobreCargaDeProcedimiento-Console134.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\SobreCargaDeProcedimiento-Console134\bin\Debug\SobreCargaDeProcedimiento-Console134.pdb
+C:\Users\Nicol\AppData\Local\Temporary Projects\SobreCargaDeProcedimiento-Console134\bin\Debug\SobreCargaDeProcedimiento-Console134.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\SobreCargaDeProcedimiento-Console134\obj\x86\Debug\SobreCargaDeProcedimiento_Console134.Resources.resources
+C:\Users\Nicol\AppData\Local\Temporary Projects\SobreCargaDeProcedimiento-Console134\obj\x86\Debug\SobreCargaDeProcedimiento-Console134.vbproj.GenerateResource.Cache
+C:\Users\Nicol\AppData\Local\Temporary Projects\SobreCargaDeProcedimiento-Console134\obj\x86\Debug\SobreCargaDeProcedimiento-Console134.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\SobreCargaDeProcedimiento-Console134\obj\x86\Debug\SobreCargaDeProcedimiento-Console134.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\SobreCargaDeProcedimiento-Console134\obj\x86\Debug\SobreCargaDeProcedimiento-Console134.pdb

@@ -1,0 +1,42 @@
+CLASE OPERACIONES
+Imports NEGOCIO
+Public Class Operaciones
+
+    Private clientes_Dummy(5) As Cliente
+    Private pelicula_Dummy(5) As Pelicula
+    Private VideoJuego_Dummy(5) As VideoJuego
+    Private Alquiler_Dummy(0) As Alquiler
+
+(AGREGAR CODIGO NECESARIO)
+
+Public Sub New()
+
+        clientes_Dummy(0) = New Cliente(1111, "Juan Perez", "Juan b. Justo 234", "435678")
+        clientes_Dummy(1) = New Cliente(2222, "Ramón Lopez", "La rioja 1445", "490876")
+        clientes_Dummy(2) = New Cliente(3333, "Pedro Martinez", "AV, Gral Paz 23", "478345")
+        clientes_Dummy(3) = New Cliente(4444, "Susana Sosa", "Caseros 2021", "408765")
+        clientes_Dummy(4) = New Cliente(5555, "Julieta Florez", "27 de Abril 345", "489456")
+        clientes_Dummy(5) = New Cliente(6666, "Juan Gomez", "Av. Colón 234", "451234")
+
+        pelicula_Dummy(0) = New Pelicula(1122, "Terminator I", 5, 5, "No", "Ciencia Ficción", 1985, "James Cameron", "Arnold Schwarzenegger")
+        pelicula_Dummy(1) = New Pelicula(1133, "La Vida es Bella", 3, 10, "No", "Drama", 1997, "Roberto Benigni", "Roberto Benigni")
+        pelicula_Dummy(2) = New Pelicula(1144, "Mulan", 3.5, 6, "No", "Infantil", 1998, "Barry Cook - Tony Bancroft", "Eddie Murphy (Mushu)")
+        pelicula_Dummy(3) = New Pelicula(1155, "Avatar", 5, 2, "No", "Ciencia Ficción", 2009, "James Cameron", "Sigourney Weaver")
+        pelicula_Dummy(4) = New Pelicula(1166, "Kill Bill vol 1", 4, 2, "Si", "Ciencia Ficción", 2003, "Quentin Tarantino", "Uma Thurman")
+        pelicula_Dummy(5) = New Pelicula(1167, "Kill Bill vol 2", 4, 2, "No", "Ciencia Ficción", 2004, "Quentin Tarantino", "Uma Thurman")
+
+        VideoJuego_Dummy(0) = New VideoJuego(1211, "JustCaseII ", 10, 7, "No", "Acción", "Xbox 360")
+        VideoJuego_Dummy(1) = New VideoJuego(1222, "Wall E", 5, 6, "No", "Infantil", "PlayStation II")
+        VideoJuego_Dummy(2) = New VideoJuego(1233, "Car 2", 10, 7, "No", "Arcade", "Wii")
+        VideoJuego_Dummy(3) = New VideoJuego(1244, "NBA 2K", 10, 7, "No", "Deportes", "Wii")
+        VideoJuego_Dummy(4) = New VideoJuego(1255, "FIFA 14", 15, 3, "No", "Deportes", "PlayStation III")
+        VideoJuego_Dummy(5) = New VideoJuego(1266, "Monster Jam", 8, 5, "No", "Deporte", "Xbox 360")
+
+        Alquiler_Dummy(0) = New Alquiler(1111, "Pelicula", 1166, CDate("10/07/2013"), CDate("12/08/2013"), 4)
+    End Sub
+
+   
+
+End Class
+
+

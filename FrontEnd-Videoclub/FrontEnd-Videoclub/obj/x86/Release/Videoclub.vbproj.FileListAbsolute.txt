@@ -1,0 +1,8 @@
+C:\Users\Nicol\AppData\Local\Temporary Projects\Videoclub\bin\Release\Videoclub.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\Videoclub\bin\Release\Videoclub.pdb
+C:\Users\Nicol\AppData\Local\Temporary Projects\Videoclub\bin\Release\Videoclub.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\Videoclub\obj\x86\Release\Videoclub.Resources.resources
+C:\Users\Nicol\AppData\Local\Temporary Projects\Videoclub\obj\x86\Release\Videoclub.vbproj.GenerateResource.Cache
+C:\Users\Nicol\AppData\Local\Temporary Projects\Videoclub\obj\x86\Release\Videoclub.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\Videoclub\obj\x86\Release\Videoclub.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\Videoclub\obj\x86\Release\Videoclub.pdb

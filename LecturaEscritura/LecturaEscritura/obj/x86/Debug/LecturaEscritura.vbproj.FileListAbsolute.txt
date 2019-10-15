@@ -1,0 +1,11 @@
+C:\Users\Nicol\AppData\Local\Temporary Projects\LecturaEscritura\bin\Debug\LecturaEscritura.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\LecturaEscritura\bin\Debug\LecturaEscritura.pdb
+C:\Users\Nicol\AppData\Local\Temporary Projects\LecturaEscritura\bin\Debug\LecturaEscritura.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\LecturaEscritura\obj\x86\Debug\LecturaEscritura.Resources.resources
+C:\Users\Nicol\AppData\Local\Temporary Projects\LecturaEscritura\obj\x86\Debug\LecturaEscritura.vbproj.GenerateResource.Cache
+C:\Users\Nicol\AppData\Local\Temporary Projects\LecturaEscritura\obj\x86\Debug\LecturaEscritura.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\LecturaEscritura\obj\x86\Debug\LecturaEscritura.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\LecturaEscritura\obj\x86\Debug\LecturaEscritura.pdb
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\LecturaEscritura\LecturaEscritura\obj\x86\Debug\LecturaEscritura.exe
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\LecturaEscritura\LecturaEscritura\obj\x86\Debug\LecturaEscritura.xml
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\LecturaEscritura\LecturaEscritura\obj\x86\Debug\LecturaEscritura.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nicol\AppData\Local\Temporary Projects\Cliente\obj\x86\Debug\Cliente.Resources.resources
+C:\Users\Nicol\AppData\Local\Temporary Projects\Cliente\obj\x86\Debug\Cliente.vbproj.GenerateResource.Cache
+C:\Users\Nicol\AppData\Local\Temporary Projects\Cliente\bin\Debug\Cliente.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Nicol\AppData\Local\Temporary Projects\Cliente\bin\Debug\Cliente.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\Cliente\obj\x86\Debug\Cliente.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\Cliente\obj\x86\Debug\Cliente.pdb

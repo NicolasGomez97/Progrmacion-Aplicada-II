@@ -1,0 +1,31 @@
+Public Sub New()
+
+        clientes_Dummy(0) = New Cliente(1111, "Juan Perez", "11111111", 1234)
+        clientes_Dummy(1) = New Cliente(2222, "Ramón Lopez", "22222222", 1234)
+        clientes_Dummy(2) = New Cliente(3333, "Pedro Martinez", "33333333", 1234)
+        clientes_Dummy(3) = New Cliente(4444, "Susana Sosa", "44444444", 1234)
+        clientes_Dummy(4) = New Cliente(5555, "Julieta Florez", "55555555", 1234)
+        clientes_Dummy(5) = New Cliente(6666, "Juan Gomez", "66666666", 1234)
+
+        clientes_Dummy(0).CajasDeAhorros = New CajaDeAhorro() {New CajaDeAhorro(3234, 6500), New CajaDeAhorro(5367, 452)}
+        clientes_Dummy(0).CuentasCorrientes = New CuentaCorriente() {New CuentaCorriente(6675, 18023)}
+
+        clientes_Dummy(1).CajasDeAhorros = New CajaDeAhorro() {New CajaDeAhorro(4256, 7800), New CajaDeAhorro(9862, 98)}
+        clientes_Dummy(1).CuentasCorrientes = New CuentaCorriente() {New CuentaCorriente(10411, 45), New CuentaCorriente(14142, 1050)}
+
+        clientes_Dummy(2).CajasDeAhorros = New CajaDeAhorro() {New CajaDeAhorro(4256, 7800), New CajaDeAhorro(12400, 55232), New CajaDeAhorro(12402, 0), New CajaDeAhorro(12403, 0)}
+        clientes_Dummy(2).CuentasCorrientes = New CuentaCorriente() {New CuentaCorriente(12409, 140520)}
+
+        clientes_Dummy(3).CajasDeAhorros = New CajaDeAhorro() {New CajaDeAhorro(67213, 5800)}
+        clientes_Dummy(3).CuentasCorrientes = New CuentaCorriente() {}
+
+        clientes_Dummy(4).CajasDeAhorros = New CajaDeAhorro() {}
+        clientes_Dummy(4).CuentasCorrientes = New CuentaCorriente() {New CuentaCorriente(8532, 105)}
+
+        clientes_Dummy(5).CajasDeAhorros = New CajaDeAhorro() {}
+        clientes_Dummy(5).CuentasCorrientes = New CuentaCorriente() {New CuentaCorriente(15732, 15850)}
+
+
+    End Sub
+
+End Class

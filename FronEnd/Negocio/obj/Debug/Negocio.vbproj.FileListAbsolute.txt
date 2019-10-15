@@ -1,0 +1,2 @@
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\FronEnd\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\FronEnd\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache

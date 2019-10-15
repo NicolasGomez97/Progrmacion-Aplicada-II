@@ -64,7 +64,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CajaDeAhorro.vb" />
+    <Compile Include="CajaDeAhorros.vb" />
     <Compile Include="Cliente.vb" />
     <Compile Include="CuentaBancaria.vb" />
     <Compile Include="CuentaCorriente.vb" />

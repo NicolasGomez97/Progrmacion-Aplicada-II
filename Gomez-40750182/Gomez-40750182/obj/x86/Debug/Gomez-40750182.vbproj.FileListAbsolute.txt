@@ -1,0 +1,11 @@
+C:\Users\Nicol\AppData\Local\Temporary Projects\Gomez-40750182\bin\Debug\Gomez-40750182.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\Gomez-40750182\bin\Debug\Gomez-40750182.pdb
+C:\Users\Nicol\AppData\Local\Temporary Projects\Gomez-40750182\bin\Debug\Gomez-40750182.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\Gomez-40750182\obj\x86\Debug\Gomez_40750182.Resources.resources
+C:\Users\Nicol\AppData\Local\Temporary Projects\Gomez-40750182\obj\x86\Debug\Gomez-40750182.vbproj.GenerateResource.Cache
+C:\Users\Nicol\AppData\Local\Temporary Projects\Gomez-40750182\obj\x86\Debug\Gomez-40750182.exe
+C:\Users\Nicol\AppData\Local\Temporary Projects\Gomez-40750182\obj\x86\Debug\Gomez-40750182.xml
+C:\Users\Nicol\AppData\Local\Temporary Projects\Gomez-40750182\obj\x86\Debug\Gomez-40750182.pdb
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\Gomez-40750182\Gomez-40750182\obj\x86\Debug\Gomez-40750182.exe
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\Gomez-40750182\Gomez-40750182\obj\x86\Debug\Gomez-40750182.xml
+C:\Users\Nicol\Documents\Progrmacion-Aplicada-II\Gomez-40750182\Gomez-40750182\obj\x86\Debug\Gomez-40750182.pdb

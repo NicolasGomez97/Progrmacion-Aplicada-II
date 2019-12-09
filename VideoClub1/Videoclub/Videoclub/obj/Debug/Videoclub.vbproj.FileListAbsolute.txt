@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\bin\Debug\Videoclub.dll
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\bin\Debug\Videoclub.pdb
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\bin\Debug\Videoclub.xml
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\obj\Debug\NEGOCIO.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\obj\Debug\Videoclub.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\obj\Debug\Videoclub.dll
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\obj\Debug\Videoclub.xml
+C:\Users\Daniel\Documents\Visual Studio 2008\Videoclub\Videoclub\obj\Debug\Videoclub.pdb

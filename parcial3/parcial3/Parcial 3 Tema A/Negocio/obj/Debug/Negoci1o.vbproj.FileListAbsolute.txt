@@ -1,0 +1,8 @@
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\bin\Debug\Negocio.dll
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\bin\Debug\Negocio.pdb
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\bin\Debug\Negocio.xml
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.Resources.resources
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negoci1o.vbproj.GenerateResource.Cache
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.dll
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.xml
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.pdb

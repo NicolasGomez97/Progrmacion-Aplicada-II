@@ -1,0 +1,35 @@
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\bin\Debug\Negocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\bin\Debug\Negocio.xml
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\obj\Debug\Negocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\obj\Debug\Negocio.xml
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\bin\Debug\Negocio.dll
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\bin\Debug\Negocio.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\obj\Debug\Negocio.dll
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\obj\Debug\Negocio.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\bin\Debug\Negocio.dll
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\bin\Debug\Negocio.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\obj\Debug\Negocio.dll
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\obj\Debug\Negocio.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\Negocio\obj\Debug\Negocio.pdb
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\bin\Debug\Negocio.dll
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\bin\Debug\Negocio.pdb
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\bin\Debug\Negocio.xml
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.Resources.resources
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.dll
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.xml
+H:\nuevo\Carreras Yoel 40519791 , Roldan Matias 38413770\Parcial 3 Tema A\Negocio\obj\Debug\Negocio.pdb

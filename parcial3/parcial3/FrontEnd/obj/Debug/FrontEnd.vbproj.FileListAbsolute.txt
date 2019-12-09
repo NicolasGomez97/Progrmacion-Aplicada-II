@@ -1,0 +1,75 @@
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\bin\Debug\FrontEnd.xml
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\bin\Debug\Negocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\bin\Debug\Negocio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\bin\Debug\Negocio.xml
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\obj\Debug\FrontEnd.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\obj\Debug\FrontEnd.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\obj\Debug\FrontEnd.xml
+C:\Users\Daniel\Documents\Visual Studio 2008\Facultad\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\obj\Debug\FrontEnd.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\obj\Debug\FrontEnd.Resources.resources
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\obj\Debug\FrontEnd.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\bin\Debug\FrontEnd.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\bin\Debug\Negocio.dll
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\bin\Debug\Negocio.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Facultad completo\FrontEnd\bin\Debug\Negocio.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.Resources.resources
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\bin\Debug\FrontEnd.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\bin\Debug\Negocio.dll
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\bin\Debug\Negocio.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\bin\Debug\Negocio.xml
+D:\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.exe
+D:\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.xml
+D:\Parcial 2 2013\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2017\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2017\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 2 2017\Parcial 2 Tema A\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Daniel\Documents\material vs net\Parcial 3 2019\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Daniel\Documents\material vs net\Parcial 3 2019\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.xml
+C:\Users\Daniel\Documents\material vs net\Parcial 3 2019\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.xml
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\bin\Debug\FrontEnd.xml
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\bin\Debug\Negocio.dll
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\bin\Debug\Negocio.pdb
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\bin\Debug\Negocio.xml
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.vbprojResolveAssemblyReference.cache
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.Resources.resources
+C:\Users\Terciario\Downloads\Parcial 3 Tema A\FrontEnd\obj\Debug\FrontEnd.vbproj.GenerateResource.Cache
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.xml
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\bin\Debug\FrontEnd.xml
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\bin\Debug\Negocio.dll
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\bin\Debug\Negocio.pdb
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\bin\Debug\Negocio.xml
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.vbprojResolveAssemblyReference.cache
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.Resources.resources
+C:\Users\Terciario\Desktop\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.vbproj.GenerateResource.Cache
+H:\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.exe
+H:\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.xml
+H:\Carreras Yoel 40519791 , Roldan Matias 38413770\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Usr\Desktop\final programacion\parcial3\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Usr\Desktop\final programacion\parcial3\FrontEnd\obj\Debug\FrontEnd.xml
+C:\Users\Usr\Desktop\final programacion\parcial3\FrontEnd\obj\Debug\FrontEnd.pdb

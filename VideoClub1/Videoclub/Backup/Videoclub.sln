@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Negocio", "Videoclub\Negocio.vbproj", "{80234176-4185-4B8C-A181-502C2FC50DB5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FrontEnd", "FrontEnd\FrontEnd.vbproj", "{99149549-C489-4718-B3BA-C29B4458EA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80234176-4185-4B8C-A181-502C2FC50DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80234176-4185-4B8C-A181-502C2FC50DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80234176-4185-4B8C-A181-502C2FC50DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80234176-4185-4B8C-A181-502C2FC50DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99149549-C489-4718-B3BA-C29B4458EA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99149549-C489-4718-B3BA-C29B4458EA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99149549-C489-4718-B3BA-C29B4458EA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99149549-C489-4718-B3BA-C29B4458EA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
